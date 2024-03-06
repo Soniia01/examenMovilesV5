@@ -1,0 +1,4 @@
+
+fkotlin:S101"HRename class "login" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(ºØÚ‹8—‹û£á1
+mkotlin:S101"ORename class "setUserState" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(üÑÜó8åèý£á1
+qkotlin:S101"SRename class "setPasswordState" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(êæáÉ8ÆÙž¤á1

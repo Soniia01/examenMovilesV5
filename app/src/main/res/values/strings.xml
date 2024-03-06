@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ExamenMovilesRecuperacionV5_SoniaSanchez</string>
+    <string name="ok">OK</string>
+    <string name="update">Update</string>
+    <string name="getEquipo">Comprobar Equipo</string>
+    <string name="getEquipoValido">El equipo existe</string>
+    <string name="getEquipoNoValido">El equipo no existe</string>
+
+    <string name="item">item</string>
+    <string name="bb">_</string>
+    <string name="space"> </string>
+    <string name="back">back</string>
+    <string name="plus">+</string>
+
+    <string name="login">login</string>
+    <string name="introducirNamePasw">Introduce un usuario y contraseña</string>
+    <string name="loginCompl">Login completo</string>
+    <string name="usuarInv">Usuario invalido</string>
+    <string name="usuario">usuario</string>
+    <string name="passw">password</string>
+    <string name="pantallaLogin">Login</string>
+    <string name="soloNumeros">Introduce solo numeros sin espacios</string>
+
+    <string name="listaEquipoPath">Equipos</string>
+    <string name="listaMovilesPath">Moviles</string>
+    <string name="listaEmpleadosPath">Empleados</string>
+
+    <string name="id">id</string>
+    <string name="modelo">modelo</string>
+    <string name="anio">anio</string>
+    <string name="capacidad">capacidad</string>
+    <string name="empleado">empleado</string>
+    <string name="updateMovil">Movil actualizado</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>

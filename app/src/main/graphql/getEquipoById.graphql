@@ -1,0 +1,9 @@
+query getEquipoByIdQuery($id : Int!) {
+    getEquipo(id : $id){
+        nombre
+        jugadores{
+            id
+            nombre
+        }
+    }
+}

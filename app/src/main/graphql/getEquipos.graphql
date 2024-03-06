@@ -1,0 +1,10 @@
+query getEquiposQuery {
+    getEquipos {
+        id
+        nombre
+        jugadores {
+            id
+            nombre
+        }
+    }
+}
